@@ -15,8 +15,5 @@ JavaScript and D3 were used to read the data.js file, append a table to the HTML
 
 ![Image description](images/byDate.png)
 
-- The table can be filtered by city:
 
-![Image description](images/byCity.png)
-
-- The table can be also be filtered by state, country and shape of UFO.
+- The table can be also be filtered by city, state, country and shape of UFO.
