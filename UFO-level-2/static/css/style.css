@@ -112,6 +112,7 @@ select {
 
 .hero p {
   font-size: 2rem;
+  color: black;
   opacity: 0;
   animation: subtitle 1.2s forwards linear;
   animation-delay: 1.2s;
