@@ -1,4 +1,4 @@
-# JavaScript Challenge
+# UFO Sightings
 
 ## Overview:
 In this assignment, an HTML page containing a dynamic table that displays UFO data was created. The table can be filtered by different criteria, and was created using JavaScript, HTML/CSS, and D3.
